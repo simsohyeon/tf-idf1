@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">tf-idf1</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_search"> 검색 </string>
+
+    <string name="menu_home"> 홈 </string>
+    <string name="menu_good"> 좋아요 </string>
+    <string name="menu_box"> 보관함 </string>
+</resources>
